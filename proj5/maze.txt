@@ -1,0 +1,6 @@
+5 4 
+OOXO 
+XOOE 
+OOXO 
+XOOX
+XOOX  
