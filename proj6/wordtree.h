@@ -1,6 +1,5 @@
-
-
-// This is the "WordTree.h" file
+// language: C++
+// author: Vanessa Serao
 
 #ifndef	WORDTREE_H		
 #define WORDTREE_H
