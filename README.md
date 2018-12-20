@@ -1,5 +1,5 @@
 
-| Projects  |  content (complex example code)             |
+| Projects  |  Content (complex example code)             |
 |-----------|-------------------------------------------- |
 | Proj1     | Pointers and Arrays                         |
 | Proj2     | Inheritence and Polymorphism                |
