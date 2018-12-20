@@ -1,0 +1,7 @@
+Allocated 100 elements
+Array size now 150 - Average so far is 436.417
+Array size now 225 - Average so far is 322.084
+Array size now 337 - Average so far is 307.215
+Array size now 505 - Average so far is 341.234
+Array size now 600 - Average so far is 237.823
+500 integers were read and the average was 229.742
