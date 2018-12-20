@@ -1,5 +1,5 @@
-//CSCI 3110-001
-//Project6
+// language: C++
+// author: Vanessa Serao
 
 // This is the "WordTree.cpp" file
 
